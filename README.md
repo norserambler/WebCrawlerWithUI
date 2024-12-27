@@ -14,6 +14,12 @@ Features
 - Customizable crawl depth and user agent
 - Handling of common crawl errors (e.g., 404, 500)
 
+System Requirements
+
+- Java 11+
+- MySQL or PostgreSQL database
+- Maven or Gradle build tool
+
 ![image](https://github.com/user-attachments/assets/19ddc220-65b0-44e6-b513-20ca0295e3cc)
 ![image](https://github.com/user-attachments/assets/3b73a06b-dedc-4556-a343-21a4176a4dfd)
 
